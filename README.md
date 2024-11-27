@@ -1,16 +1,15 @@
-## Hi there 👋
+> A full stack developer based in pakistan
 
-<!--
-**webdevkaleem/webdevkaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# webdevkaleem
 
-Here are some ideas to get you started:
+Around 3 years of experience in the field of web development. <br/>
+Was Stuck in tutorial hell for a good whole 2 years :( 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+A Self Managed Ecommerce Platform
+- Backend - [Medusa JS](https://docs.medusajs.com/learn)
+- Frontend - [Next JS](https://nextjs.org/docs)
+- Hosting - [Railway](https://docs.railway.com)
+- Status - In Progress
+
+<a href="https://app.daily.dev/webdevkaleem"><img src="https://api.daily.dev/devcards/v2/7LhN9sCzN9M4q8vSZl2Cm.png?type=default&r=eun" width="356" alt="webdevkaleem's Dev Card"/></a>

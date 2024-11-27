@@ -12,4 +12,6 @@ A Self Managed Ecommerce Platform
 - Hosting - [Railway](https://docs.railway.com)
 - Status - In Progress
 
-<a href="https://app.daily.dev/webdevkaleem"><img src="https://api.daily.dev/devcards/v2/7LhN9sCzN9M4q8vSZl2Cm.png?type=default&r=eun" width="356" alt="webdevkaleem's Dev Card"/></a>
+<br/>
+
+<a href="https://app.daily.dev/webdevkaleem"><img src="https://github.com/webdevkaleem/webdevkaleem/blob/42b4db63fd81adda1cf80db850a88c565082c2c6/devcard.png" width="648" alt="webdevkaleem's Dev Card"/></a>

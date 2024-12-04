@@ -14,4 +14,4 @@ A Self Managed Ecommerce Platform
 
 <br/>
 
-<a href="https://app.daily.dev/webdevkaleem"><img src="https://github.com/webdevkaleem/webdevkaleem/blob/42b4db63fd81adda1cf80db850a88c565082c2c6/devcard.png" width="648" alt="webdevkaleem's Dev Card"/></a>
+<a href="https://app.daily.dev/webdevkaleem"><img src="devcard.png" width="648" alt="webdevkaleem's Dev Card"/></a>

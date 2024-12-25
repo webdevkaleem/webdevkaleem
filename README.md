@@ -7,7 +7,7 @@ Was Stuck in tutorial hell for a good whole 2 years :(
 
 ### Current Projects
 A Self Managed Ecommerce Platform
-- Backend - [Medusa JS](https://docs.medusajs.com/learn)
+- Backend - [Next JS](https://nextjs.org/docs)
 - Frontend - [Next JS](https://nextjs.org/docs)
 - Hosting - [Railway](https://docs.railway.com)
 - Status - In Progress

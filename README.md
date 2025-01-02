@@ -6,11 +6,7 @@ Around 3 years of experience in the field of web development. <br/>
 Was Stuck in tutorial hell for a good whole 2 years :( 
 
 ### Current Projects
-A Self Managed Ecommerce Platform
-- Backend - [Next JS](https://nextjs.org/docs)
-- Frontend - [Next JS](https://nextjs.org/docs)
-- Hosting - [Railway](https://docs.railway.com)
-- Status - In Progress
+[A Self Managed Ecommerce Store Builder](https://github.com/webdevkaleem/ecommerce_store_builder)
 
 <br/>
 

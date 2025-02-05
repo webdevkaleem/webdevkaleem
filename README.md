@@ -3,6 +3,7 @@
 I'm a passionate web developer specializing in the T3 stack, particularly with Next.js and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.
 
 ### Frontend
+<div style="display:flex;">
 <!-- Main -->
 <!-- React -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat">
@@ -32,9 +33,11 @@ I'm a passionate web developer specializing in the T3 stack, particularly with N
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=CSS&color=264BD9&logo=CSS3&logoColor=white&style=flat">
 <!-- Javascript -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=E8D44D&logo=Javascript&logoColor=white&style=flat">
+</div>
 
 
 ### Backend
+<div style="display:flex;">
 <!-- Main -->
 <!-- Nextjs -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Next JS&color=000000&logo=Next.js&logoColor=white&style=flat">
@@ -52,23 +55,29 @@ I'm a passionate web developer specializing in the T3 stack, particularly with N
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Express&color=212121&logo=Express&logoColor=white&style=flat">
 <!-- Mongoose -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Mongoose&color=880000&logo=Mongoose&logoColor=white&style=flat">
+</div>
+
 
 ### Databases
-<!-- Mongodb -->
+<div style="display:flex;">
+<!-- Mongodb -->    
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Mongod DB&color=419933&logo=Mongodb&logoColor=white&style=flat">
 <!-- Postgresql -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Postgres SQL&color=31648C&logo=Postgresql&logoColor=white&style=flat">
 <!-- Redis -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Upstash Redis&color=00C389&logo=Upstash&logoColor=white&style=flat">
-
+</div>
 
 ### Deployment & Tools
+<div style="display:flex;">
 <!-- Vercel -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Vercel&color=0F0F12&logo=vercel&logoColor=white&style=flat">
 <!-- Railway -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Railway&color=0F0F12&logo=railway&logoColor=white&style=flat">
 <!-- AWS -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=AWS&color=FD9800&logo=amazonwebservices&logoColor=white&style=flat">
+</div>
+
 
 ## 🌱 Learning & Growth 
 I follow Theo, the creator of the T3 stack, and I'm constantly inspired by his work. I also share my progress and insights on <a href="https://app.daily.dev/webdevkaleem">daily.dev</a>.

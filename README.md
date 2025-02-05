@@ -83,7 +83,7 @@ I'm a passionate web developer specializing in the T3 stack, particularly with N
 I follow Theo, the creator of the T3 stack, and I'm constantly inspired by his work. I also share my progress and insights on <a href="https://app.daily.dev/webdevkaleem">daily.dev</a>.
 
 ## 🚀 Current Projects (In Progress)
-### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Website Builder</a>
+### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
 Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
 - An admin CMS for managing the storefront.
 - Fully customizable storefronts through the admin panel, allowing users to tailor their online shops.

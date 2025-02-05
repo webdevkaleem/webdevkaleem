@@ -5,18 +5,18 @@ I'm a passionate web developer specializing in the T3 stack, particularly with N
 ## Technologies I Work With
 
 ### Frontend
-- React
-- Next.js
-- Tailwind CSS
+- React ![React Icon](./icons/react.svg)
+- Next.js ![Next.js Icon](./icons/nextjs.svg)
+- Tailwind CSS ![Tailwind Icon](./icons/tailwind.svg)
 
 ### Backend
-- Express
-- MongoDB
-- Mongoose
+- Express ![Express Icon](./icons/express.svg)
+- MongoDB ![MongoDB Icon](./icons/mongoDB.svg)
+- Mongoose ![Mongoose Icon](./icons/mongoose.svg)
 
 ### Deployment & Tools
 - Railway
-- AWS
+- AWS ![AWS Icon](./icons/aws.svg)
 - Uploadthing
 
 ## 🌱 Learning & Growth 

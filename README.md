@@ -1,3 +1,5 @@
+<img src="./public/top.png" style="width:100%;">
+
 # 👋 Hi there! I'm Kaleem Bhatti
 
 I'm a passionate web developer specializing in the [T3 stack](https://create.t3.gg), particularly with [Next.js](https://nextjs.org) and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.

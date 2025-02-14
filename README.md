@@ -4,6 +4,11 @@
 
 I'm a web developer specializing in the [T3 stack](https://create.t3.gg), particularly with [Next.js](https://nextjs.org) and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.
 
+<br/>
+
+## 👩‍💻 Current Technologies
+These below are the technologies that I normally use to build projects. 
+
 ### Frontend
 <div style="display:flex;">
 <!-- Main -->
@@ -49,14 +54,8 @@ I'm a web developer specializing in the [T3 stack](https://create.t3.gg), partic
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Node JS&color=539E43&logo=Node.js&logoColor=white&style=flat">
 
 <!-- Other -->
-<!-- Prisma -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Prisma&color=000000&logo=Prisma&logoColor=white&style=flat">
 <!-- Zod -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Zod&color=274D82&logo=zod&logoColor=white&style=flat">
-<!-- Express -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Express&color=212121&logo=Express&logoColor=white&style=flat">
-<!-- Mongoose -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Mongoose&color=880000&logo=Mongoose&logoColor=white&style=flat">
 </div>
 
 
@@ -76,15 +75,16 @@ I'm a web developer specializing in the [T3 stack](https://create.t3.gg), partic
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Vercel&color=0F0F12&logo=vercel&logoColor=white&style=flat">
 <!-- Railway -->
 <img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Railway&color=0F0F12&logo=railway&logoColor=white&style=flat">
-<!-- AWS -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=AWS&color=FD9800&logo=amazonwebservices&logoColor=white&style=flat">
 </div>
 
+<br/>
 
 ## 🌱 Learning & Growth 
 I follow Theo, the creator of the T3 stack, and I'm constantly inspired by his work. I also share my progress and insights on <a href="https://app.daily.dev/webdevkaleem">daily.dev</a>.
 
-## 🚀 Current Projects (In Progress)
+<br/>
+
+## 🚀 Current Projects
 ### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
 Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
 - An admin CMS for managing the storefront.
@@ -99,8 +99,6 @@ This project aims to facilitate file distribution among classmates without requi
 - Admins can upload files for public download.
 - All files are automatically deleted after 24 hours, ensuring privacy and anonymity.
 - Aimed at helping classmates share files easily, especially for those without mobile access.
-
-> Note: This project is also a work in progress and is not yet fully functional.
 
 <br/>
 

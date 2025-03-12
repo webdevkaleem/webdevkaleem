@@ -85,12 +85,8 @@ I follow Theo, the creator of the T3 stack, and I'm constantly inspired by his w
 <br/>
 
 ## 🚀 Current Projects
-### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
-Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
-- An admin CMS for managing the storefront.
-- Fully customizable storefronts through the admin panel, allowing users to tailor their online shops.
-
-> Note: This project is still in its early stages and is not yet complete.
+### <a href="https://github.com/webdevkaleem/uploadthing-ui">Uploadthing UI</a>
+Custom UI components for Uploadthing built on top of the [Shadcn Registry](https://ui.shadcn.com/docs/registry). This project is for [Next JS](https://nextjs.org/)/[React](https://react.dev/) only. It's an opinionated way of handling uploadthing's client side state.
 
 <br/>
 
@@ -99,6 +95,15 @@ This project aims to facilitate file distribution among classmates without requi
 - Admins can upload files for public download.
 - All files are automatically deleted after 24 hours, ensuring privacy and anonymity.
 - Aimed at helping classmates share files easily, especially for those without mobile access.
+
+<br/>
+
+### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
+Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
+- An admin CMS for managing the storefront.
+- Fully customizable storefronts through the admin panel, allowing users to tailor their online shops.
+
+> Note: This project is still in its early stages and is not yet complete.
 
 <br/>
 

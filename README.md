@@ -90,14 +90,6 @@ Custom UI components for Uploadthing built on top of the [Shadcn Registry](https
 
 <br/>
 
-### <a href="https://github.com/webdevkaleem/zip4you">File Distributor</a>
-This project aims to facilitate file distribution among classmates without requiring account creation. Key features include:
-- Admins can upload files for public download.
-- All files are automatically deleted after 24 hours, ensuring privacy and anonymity.
-- Aimed at helping classmates share files easily, especially for those without mobile access.
-
-<br/>
-
 ### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
 Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
 - An admin CMS for managing the storefront.

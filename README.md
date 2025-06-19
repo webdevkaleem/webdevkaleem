@@ -86,6 +86,12 @@ I follow Theo, the creator of the T3 stack, and I'm constantly inspired by his w
 
 ## 🚀 Current Projects
 
+
+### <a href="https://github.com/webdevkaleem/uploadthingui">UploadthingUI</a>
+A set of beautifully-designed, accessible components for building [Uploadthing](https://uploadthing.com) components. Built for [Next.js](https://https://nextjs.org) with [Shadcn Registry](https://ui.shadcn.com/docs/registry). Open Source. Open Code.
+
+<br/>
+
 ### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
 Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
 - An admin CMS for managing the storefront.

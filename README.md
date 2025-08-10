@@ -103,3 +103,6 @@ Currently developing an open-source e-commerce website builder similar to Shopif
 
 ## 📫 Let's Connect!
 I'm always open to learning and collaborating on new projects, so feel free to reach out!
+
+- <a href="https://www.linkedin.com/in/kaleem-bhatti-9662b1376">LinkedIn</a>
+- <a href="https://x.com/webdevkaleem">X (formally twitter)</a>

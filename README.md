@@ -1,108 +1,26 @@
-<img src="./public/top.png" style="width:100%;">
+<h1>Hi there! I'm Kaleem</h1>
+<h3>I'm a web developer specializing in the T3 stack, particularly with Next.js and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.</h3>
 
-# 👋 Hi there! I'm Kaleem
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="webdevkaleem" /> </p>
 
-I'm a web developer specializing in the [T3 stack](https://create.t3.gg), particularly with [Next.js](https://nextjs.org) and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.
+- 🔭 I’m currently working on **shopnextify**
 
-<br/>
+- 🌱 I’m currently learning **NextJS, Python, Langchain, C++**
 
-## 👩‍💻 Current Technologies
-These below are the technologies that I normally use to build projects. 
+- 👯 I’m looking to collaborate on [uploadthingui](https://uploadthingui.vercel.app/)
 
-### Frontend
-<div style="display:flex;">
-<!-- Main -->
-<!-- React -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=React&color=0088CC&logo=React&logoColor=white&style=flat">
-<!-- Nextjs -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Next JS&color=000000&logo=Next.js&logoColor=white&style=flat">
-<!-- Typescript -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Typescript&color=2F74C0&logo=Typescript&logoColor=white&style=flat">
-<!-- tRPC -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=tRPC&color=3788C5&logo=TRPC&logoColor=white&style=flat">
+- 👨‍💻 All of my projects are available at [https://github.com/webdevkaleem](https://github.com/webdevkaleem)
 
-<!-- Styling -->
-<!-- Tailwind -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Tailwind&color=38BDF8&logo=TailwindCSS&logoColor=white&style=flat">
-<!-- Radix -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Radix&color=000000&logo=Radixui&logoColor=white&style=flat">
-<!-- Shadcn -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Shadcn&color=000000&logo=Shadcnui&logoColor=white&style=flat">
-<!-- Lucide -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Lucide&color=F56A6A&logo=Lucide&logoColor=white&style=flat">
+- 📫 How to reach me **webdevkaleem@gmail.com**
 
-<!-- Other -->
-<!-- Zod -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Zod&color=274D82&logo=zod&logoColor=white&style=flat">
-<!-- HTML -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=HTML&color=DD4B24&logo=Html5&logoColor=white&style=flat">
-<!-- CSS -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=CSS&color=264BD9&logo=CSS3&logoColor=white&style=flat">
-<!-- Javascript -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Javascript&color=E8D44D&logo=Javascript&logoColor=white&style=flat">
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/webdevkaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevkaleem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaleem bhatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleem bhatti" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-### Backend
-<div style="display:flex;">
-<!-- Main -->
-<!-- Nextjs -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Next JS&color=000000&logo=Next.js&logoColor=white&style=flat">
-<!-- Drizzle -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Drizzle&color=BFEF4D&logo=Drizzle&logoColor=white&style=flat">
-<!-- Nodejs -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Node JS&color=539E43&logo=Node.js&logoColor=white&style=flat">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevkaleem&" alt="webdevkaleem" /></p>
 
-<!-- Other -->
-<!-- Zod -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Zod&color=274D82&logo=zod&logoColor=white&style=flat">
-</div>
-
-
-### Databases
-<div style="display:flex;">
-<!-- Mongodb -->    
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Mongod DB&color=419933&logo=Mongodb&logoColor=white&style=flat">
-<!-- Postgresql -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Postgres SQL&color=31648C&logo=Postgresql&logoColor=white&style=flat">
-<!-- Redis -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Upstash Redis&color=00C389&logo=Upstash&logoColor=white&style=flat">
-</div>
-
-### Deployment & Tools
-<div style="display:flex;">
-<!-- Vercel -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Vercel&color=0F0F12&logo=vercel&logoColor=white&style=flat">
-<!-- Railway -->
-<img style="height:2rem;" src="https://img.shields.io/static/v1?label=&message=Railway&color=0F0F12&logo=railway&logoColor=white&style=flat">
-</div>
-
-<br/>
-
-## 🌱 Learning & Growth 
-I follow Theo, the creator of the T3 stack, and I'm constantly inspired by his work. I also share my progress and insights on <a href="https://app.daily.dev/webdevkaleem">daily.dev</a>.
-
-<br/>
-
-## 🚀 Current Projects
-
-
-### <a href="https://github.com/webdevkaleem/uploadthingui">UploadthingUI</a>
-A set of beautifully-designed, accessible components for building [Uploadthing](https://uploadthing.com) components. Built for [Next.js](https://https://nextjs.org) with [Shadcn Registry](https://ui.shadcn.com/docs/registry). Open Source. Open Code.
-
-<br/>
-
-### <a href="https://github.com/webdevkaleem/ecommerce_store_builder">E-commerce Store Builder</a>
-Currently developing an open-source e-commerce website builder similar to Shopify. This project features:
-- An admin CMS for managing the storefront.
-- Fully customizable storefronts through the admin panel, allowing users to tailor their online shops.
-
-> Note: This project is still in its early stages and is not yet complete.
-
-<br/>
-
-## 📫 Let's Connect!
-I'm always open to learning and collaborating on new projects, so feel free to reach out!
-
-- <a href="https://www.linkedin.com/in/kaleem-bhatti-9662b1376">LinkedIn</a>
-- <a href="https://x.com/webdevkaleem">X (formally twitter)</a>

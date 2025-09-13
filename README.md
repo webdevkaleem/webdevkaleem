@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Kaleem</h1>
-<h3>I'm a web developer specializing in the T3 stack, particularly with Next.js and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.</h3>
+<p>I'm a web developer specializing in the T3 stack, particularly with Next.js and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="webdevkaleem" /> </p>
 

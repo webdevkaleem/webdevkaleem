@@ -3,11 +3,9 @@
 <h1>Hi there! I'm Kaleem</h1>
 <p>I'm a web developer specializing in the T3 stack, particularly with Next.js and its app router. After spending a couple of years navigating through tutorial hell, I've emerged with a solid foundation in modern web technologies and a keen interest in building dynamic web applications.</p>
 
-- 🔭 I’m currently working on **[shopnextify](https://github.com/webdevkaleem/shopnextify)**
+- 🔭 I’m currently working & looking to collaborate on [shopnextify](https://github.com/webdevkaleem/shopnextify) and [uploadthingui](https://github.com/webdevkaleem/uploadthingui)
 
 - 🌱 I’m currently learning **NextJS, Python, Langchain, C++**
-
-- 👯 I’m looking to collaborate on [uploadthingui](https://uploadthingui.vercel.app/), [shopnextify](https://github.com/webdevkaleem/shopnextify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/webdevkaleem](https://github.com/webdevkaleem)
 

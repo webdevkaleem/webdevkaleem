@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, Python, Langchain, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/webdevkaleem](https://github.com/webdevkaleem)
+- 👨‍💻 All of my projects are available at [webdevkaleem.com](https://webdevkaleem.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaleem-bhatti-9662b1376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/webdevkaleem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webdevkaleem@gmail.com) 
 
